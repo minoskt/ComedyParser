@@ -1,0 +1,8 @@
+<ioxts>
+    <command>
+        <object>authentication_management</object>
+        <requestor_id>$requestor_id</requestor_id>
+        <function_name>keep_alive</function_name>
+        <parameters/>
+    </command>
+</ioxts>

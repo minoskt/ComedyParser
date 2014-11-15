@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ioxts>
+    <command>
+        <object>authentication_management</object>
+        <requestor_id>$requestor_id</requestor_id>
+        <function_name>authenticate</function_name>
+        <parameters>
+            <access_level>$access_level</access_level>
+            <password>$password</password>
+            <user>$user</user>
+        </parameters>
+    </command>
+</ioxts>

@@ -1,0 +1,10 @@
+<ioxts>
+    <command>
+        <object>control_function_management</object>
+        <requestor_id>$requestor_id</requestor_id>
+        <function_name>set_properties</function_name>
+        <parameters>
+            <name>$name</name>$parameters
+        </parameters>
+    </command>
+</ioxts>

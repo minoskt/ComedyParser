@@ -1,0 +1,12 @@
+<ioxts>
+    <command>
+        <object>subscription_management</object>
+        <requestor_id>$requestor_id</requestor_id>
+        <function_name>new</function_name>
+        <parameters>
+            <object_name>$object_name</object_name>
+            <type>$type</type>
+            <id>$id</id>
+        </parameters>
+    </command>
+</ioxts>

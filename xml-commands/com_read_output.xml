@@ -1,0 +1,12 @@
+<ioxts>
+    <command>
+        <object>output_management</object>
+        <requestor_id>$requestor_id</requestor_id>
+        <function_name>read</function_name>
+        <parameters>
+            <format>ascii</format>
+            <id>$id</id>
+            <type>output</type>
+        </parameters>
+    </command>
+</ioxts>

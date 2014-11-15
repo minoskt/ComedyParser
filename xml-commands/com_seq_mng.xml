@@ -1,0 +1,12 @@
+<ioxts>
+    <command>
+        <object>sequence_management</object>
+        <requestor_id>$requestor_id</requestor_id>
+        <function_name>$function_name</function_name>
+        <parameters>
+            <duration>0</duration>
+            <offset>0</offset>
+            <sequence_number>$sequence_number</sequence_number>
+        </parameters>
+    </command>
+</ioxts>

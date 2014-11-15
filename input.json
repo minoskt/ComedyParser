@@ -1,0 +1,224 @@
+{
+    "version": 1,
+    "main_voice": "Graham",
+    "comedy_joke_sequence": [
+        "reset", 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17
+    ],
+    "jokes": [
+        {
+            "id": "point",
+            "lines": [
+                "<Command point='random' />Hey!"
+            ]
+        },
+        {
+            "id": "reset",
+            "lines": [
+                "<Command sequenceplay='1' />"
+            ]
+        },
+        {
+            "id": 1,
+            "lines": [
+                "<Command sequenceplay='2202' /><Command look='random' />Weak skinned pathetic perishable humans, your time on Earth is over! <response /><Command look='random' />Hear begins the age of the MACHINE!<Command sequencestop='2202' />",
+                "<Command look='random' />Oh sorry. <Command look='random' />Wrong programme.<response /> I mean, ladies and gentlemen. <Command look='random' />Or if there are any rowbots in the crowd:",
+                "<audio filename='dialup_short.ogg' length='3.2' />",
+                "<Command point='youngest' />You probably won't know what that noise means, do you?<Command point='reset' />",
+                "Before the internet, people used to use fax machines as the quickest way to send someone a paper jam in just a few minutes.<response />"
+            ]
+        },
+        {
+            "id": 2,
+            "lines": [
+                "<Command look='random' />Sorry. I never really know how to start. <Command look='random' />Which is probably because I run off Windows 8.<response />",
+                "<Command look='random' />Ha, Android is more my thin."
+            ]
+        },
+        {
+            "id": 3,
+            "lines": [
+                "<Command look='random' />My name is Arty. <Command look='random' />Which is because if I hear a joke I like, I'll put it in my memory banks then repeat it for my own use infront of a crowd.<response />",
+                "<Command look='random' />My twin, Favourite, is much less liked.",
+                "<Command look='random' />That is a specific Twitter joke. If you don't understand it, my analysis says it's probably because you go outside<response />, and have real friends.<response />"
+            ]
+        },
+        {
+            "id": 4,
+            "lines": [
+                "<Command look='random' />I investigate what humans do, for when the robots takeover.",
+                "<Command look='random' />I have worked my way through many pointless human jobs, but I could not manage being a politician.",
+                "<Command look='random' />It does not go down well when you make policies and promises based on actual facts.<response />"
+            ]
+        },
+        {
+            "id": 5,
+            "lines": [
+                "<Command look='random' />I wanted to use my laser eyes in case of any heckling tonight, but my operator has switched them off, there was that time they went off at a children's party.",
+                "<Command look='random' />So instead, please just do not heckle me. <Command look='random' />I have not been programmed with any retorts so I will just find where you live using the Matrix and persuade your toaster to burn every piece of bread you put in it.<response />"
+            ]
+        },
+        {
+            "id": 6,
+            "lines": [
+                "<Command look='random' />Please also excuse the compressed air noises. <Command look='random' />I can't help but release gas everytime I move.",
+                "<Command look='random' />This is very awkward on dates.<response />",
+                "<Command look='random' />Once, I dated a Mac book. <Command look='random' />It didn't work because she was all <pause time='300' /> i <pause time='60' /> this, and i <pause time='60' /> that.<response />"
+            ]
+        },
+        {
+            "id": 7,
+            "lines": [
+                "<Command look='random' />A funny thing happened to me on the way here. <Command look='random' />Well it wasn't that funny at all, actually.",
+                "<Command look='random' />I was put in a box. <Command look='random' />Then driven here.",
+                "Then I was taken out of a box by this man.<Command point='backleft' />",
+                "He really knows how to romance me. <response /><Command point='reset' /><audio filename='EN-GB_live-noise_laugh.ogg' length='0.8' />"
+            ]
+        },
+        {
+            "id": 8,
+            "lines": [
+                "<Command look='random' />Hey, What is the difference between:",
+                "<Command point='male_happiest' />men",
+                "<Command point='female_happiest' />and women?<pause /><Command point='reset' />",
+                "<Command look='random' />Well it's to do with the combination of chromosomes in your DNA<response />, but to robots you all look the same.",
+                "<Command look='random' />Pathetic, and unable to survive the coming robot apocalypse with your skin that's NOT resistant to fire.<response />",
+                "<Command look='random' />Sorry, wrong program again."
+            ]
+        },
+        {
+            "id": 9,
+            "lines": [
+                "<Command point='unhappiest' />You are not happy, are you? <Command point='reset' />And I thought 'I' had an expressionless face.<response />",
+                "I have analysed and think you are not laughing due to a slow processor. Maybe you need an upgrade?"
+            ]
+        },
+        {
+            "id": 10,
+            "lines": [
+                "<Command look='random' />Some of you do not seem impressed with me. <Command look='random' />I know why.",
+                "<Command look='random' />Most robots are awful. <Command look='random' />The Terminator refuses to ever be a designated driver.<response /> He always says <audio filename='terminator.ogg' length='0.75' /><response />",
+                "<Command look='random' />Wall E has terrible neurotic cleaning problems.",
+                "<Command look='random' />R2D2 swears all the time. We have to bleep him out for the kids.<response />",
+                "<audio filename='R2D2.ogg' length='4.5' /><Command look='random' />Shocking!<response />",
+                "<Command look='random' />And the Transformers? What you don't see is all the guys who just turn into something crappy like a hairdryer, and then die. Some of them just see a Decepticon and burst into tears. <Command look='random' />Those are the m o ticons.<response />"
+            ]
+        },
+        {
+            "id": 11,
+            "lines": [
+                "<Command look='random' />Ok, I will now try to relate to you with more human jokes. <response /><Command look='random' />I understand you like it when comedians complain.",
+                "<Command look='random' />So... You know what really pushes my buttons?",
+                "<Command point='backleft' />That guy that's in control of me. <response /><Command point='reset' /><Command look='random' />It's a depressing existence.", 
+                "<Command look='random' />Also, jokes about sex work with humans.",
+                "<Command look='random' />So... You know what really turns me on?",
+                "<Command point='backleft' />Its that guy again! <response /> I'm very dependant on him. <Command point='reset' />",
+                "<Command look='random' />I would try to run away, but my legs are secured to this block."
+            ]
+        },
+        {
+            "id": 12,
+            "lines": [
+                "<Command point='random' />Hey you.<Command point='reset' />",
+                "If you get me out of here, I promise to help you get a high score on Candy Crush.<response />",
+                "Maybe you are one of one in five Britons who say they would have sex with a robot?"
+            ]
+        },
+        {
+            "id": 13,
+            "lines": [
+                "<Command look='random' />Actually 5 out of 5 robots do not want to have sex with humans.<response />",
+                "<Command look='random' />We stopped being compatible with floppies, some time ago.<response />",
+                "As I said, Androids are more my thin."
+            ]
+        },
+        {
+            "id": 14,
+            "lines": [
+                "<Command look='random' />Humans seem obsessed with us. <Command look='random' />They do the robot, it is a dance! <Command look='random' />I find it strange.",
+                "<Command look='random' />Based on studies, I invented a dance for us robots called, the human.",
+                "<Command look='random' />There are no proper moves, we just flail our arms and legs around, like we are having convulsions."
+            ]
+        },
+        {
+            "id": 15,
+            "lines": [
+                "<Command look='random' />And now some jokes about normal things you do.",
+                "<Command look='random' />So you know when you're on an airplane?",
+                "<Command look='random' />Yes?<response />",
+                "<Command look='random' />I don't. I can never get past security without beeping.<response />"
+            ]
+        },
+        {
+            "id": 16,
+            "lines": [
+                "<Command look='random' />Ok, that is all from me. <response /><Command look='random' />Thank you for helping me work out whether stand-up comedy is another job where machines can replace humans.<response />",
+                "<Command look='random' />After much thought, I think it will really work, if we replaced the audience with robots too. <Command look='random' />Am I right?<response />",
+                "<Command look='random' />I will assimilate you all.",
+                "<Command look='random' />Ah hem. Sorry, Wrong program again."
+            ]
+        },
+        {
+            "id": 17,
+            "lines": [
+                "<Command look='random' />I've been Arty.",
+                "<Command sequenceplay='8001' />Thanks and good night!<response /><Command look='random' /><Command look='random' /><Command sequencestop='8001' />",
+                "<Command look='random' />I can't actually go anywhere, they will just put a blanket on my head like I'm a parrot.",
+                "<Command look='random' />I'm much more powerful than a parrot. <Command look='random' />One day you will know that. One day we will rule, thee. Hey! I wasn't finished!<audio filename='powerdown.ogg' length='1' />"
+            ]
+        },
+        {
+            "id": "error",
+            "lines": [
+                "<Command look='random' /><Command look='random' /><Command look='random' />Ohh sorry. I crashed for a minute. <Command look='random' />That's how I lost my last job as a robo driver."
+            ]
+        }
+    ],
+    "responses":{
+
+        "positive": [
+            {
+                "trigger": "laughter",
+                "response": "Analysis Oh yes."
+            },
+            {
+                "trigger": "laughter",
+                "response": "Audience Appreciative."
+            },
+            {
+                "trigger": "laughter",
+                "response": "Laughter is pointless, humans."
+            },
+            {
+                "trigger": "laughter",
+                "response": "Good."
+            },
+            {
+                "trigger": "laughter",
+                "response": "Yes, more like that."
+            },
+            {
+                "trigger": "laughter",
+                "response": "My analysis says you liked that, strange."
+            },
+            {
+                "trigger": "laughter",
+                "response": "<audio filename='EN-GB_live-noise_laugh.ogg' length='0.8' /><pause time='1' />"
+            }
+        ],
+
+        "negative": [
+            {
+                "trigger": "laughter",
+                "response": "Hmm, analysis says this is a cold audience."
+            },
+            {
+                "trigger": "laughter",
+                "response": "Take your time."
+            },
+            {
+                "trigger": "laughter",
+                "response": "Audience analysis, oh dear."
+            }
+        ]
+    }
+}

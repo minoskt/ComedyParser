@@ -1,0 +1,13 @@
+<ioxts>
+    <command>
+        <object>output_management</object>
+        <requestor_id>$requestor_id</requestor_id>
+        <function_name>write</function_name>
+        <parameters>
+            <format>ascii</format>
+            <id>171</id>
+            <type>output</type>
+            <value>1/play/$play</value>
+        </parameters>
+    </command>
+</ioxts>

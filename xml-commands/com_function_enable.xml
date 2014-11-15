@@ -1,0 +1,10 @@
+<ioxts>
+    <command>
+        <object>control_function_management</object>
+        <function_name>set</function_name>
+        <parameters>
+            <name>$name</name>
+            <active>$active</active>
+        </parameters>
+    </command>
+</ioxts>

@@ -1,0 +1,122 @@
+[
+    {
+        "head_nod": 1591, 
+        "head_turn": 1874, 
+        "arm_elbow": 1714, 
+        "arm_out": 1325, 
+        "head_roll": 1735, 
+        "shore_y": 750, 
+        "shore_x": 698, 
+        "arm_up": 950, 
+        "chair": 14, 
+        "arm": "left"
+    }, 
+    {
+        "head_nod": 1591, 
+        "head_turn": 2047, 
+        "arm_elbow": 1524, 
+        "arm_out": 1500, 
+        "head_roll": 1735, 
+        "shore_y": 730, 
+        "shore_x": 205, 
+        "arm_up": 950, 
+        "chair": 12, 
+        "arm": "left"
+    }, 
+    {
+        "head_nod": 1591, 
+        "head_turn": 1787, 
+        "arm_elbow": 1612, 
+        "arm_out": 1133, 
+        "head_roll": 1809, 
+        "shore_y": 900, 
+        "shore_x": 939, 
+        "arm_up": 950, 
+        "chair": 15, 
+        "arm": "right"
+    }, 
+    {
+        "head_nod": 1591, 
+        "head_turn": 2059, 
+        "arm_elbow": 1524, 
+        "arm_out": 1500, 
+        "head_roll": 1809, 
+        "shore_y": 514, 
+        "shore_x": 240, 
+        "arm_up": 1031, 
+        "chair": 21, 
+        "arm": "left"
+    }, 
+    {
+        "head_nod": 1625, 
+        "head_turn": 1906, 
+        "arm_elbow": 1524, 
+        "arm_out": 1245, 
+        "head_roll": 1795, 
+        "shore_y": 500, 
+        "shore_x": 600, 
+        "arm_up": 1170, 
+        "chair": 23, 
+        "arm": "left"
+    }, 
+    {
+        "head_nod": 1625, 
+        "head_turn": 1811, 
+        "arm_elbow": 1629, 
+        "arm_out": 1068, 
+        "head_roll": 1795, 
+        "shore_y": 580, 
+        "shore_x": 820, 
+        "arm_up": 1041, 
+        "chair": 25, 
+        "arm": "right"
+    },
+    {
+        "head_nod": 1625, 
+        "head_turn": 2037, 
+        "arm_elbow": 1451, 
+        "arm_out": 1500, 
+        "head_roll": 1795, 
+        "shore_y": 370, 
+        "shore_x": 200, 
+        "arm_up": 1137, 
+        "chair": 31, 
+        "arm": "left"
+    }, 
+    {
+        "head_nod": 1625, 
+        "head_turn": 1874, 
+        "arm_elbow": 1451, 
+        "arm_out": 1191, 
+        "head_roll": 1795, 
+        "shore_y": 390, 
+        "shore_x": 560, 
+        "arm_up": 1290, 
+        "chair": 34, 
+        "arm": "left"
+    }, 
+    {
+        "head_nod": 1625, 
+        "head_turn": 1782, 
+        "arm_elbow": 1652, 
+        "arm_out": 1223, 
+        "head_roll": 1842, 
+        "shore_y": 430, 
+        "shore_x": 870, 
+        "arm_up": 1116, 
+        "chair": 34, 
+        "arm": "right"
+    }, 
+    {
+        "head_nod": 1726, 
+        "head_turn": 1888, 
+        "arm_elbow": 1150, 
+        "arm_out": 900, 
+        "head_roll": 1842, 
+        "shore_y": 145, 
+        "shore_x": 514, 
+        "arm_up": 1499, 
+        "chair": 65, 
+        "arm": "right"
+    }
+]

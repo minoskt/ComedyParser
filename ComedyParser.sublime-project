@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.pyc",
+				"*.tmp",
+				"*.log",
+				"*.gitignore"
+			],
+			"folder_exclude_patterns":
+			[
+				"Sequence files",
+				"Audio files"
+			],
+			"follow_symlinks": true,
+			"path": "."
+		}
+	]
+}
