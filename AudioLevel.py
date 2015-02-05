@@ -93,9 +93,6 @@ class AudioLevelReader(threading.Thread):
         # set running to False
         self._running = False
 
-    def block_time(self):
-        return _block_time
-
     def all_streams(self):
 
         streams = []
@@ -174,11 +171,11 @@ class AudioLevelReader(threading.Thread):
         while self._running:
 
             # add the volume to the buffer
-            volume = self._read()
-            self._buffer.append(volume)
+            _volume = self._read()
+            self._buffer.append(_volume)
 
         # set the volume to None once it is stopped
-        self.volume = None
+        self._volume = None
 
     def stop(self):
 
@@ -210,7 +207,7 @@ if __name__ == '__main__':
         print level
 
     # init the AudioLevelModule with callback and default delay
-    audioModule = AudioLevelModule(printLevel, 0.1, 4)
+    audioModule = AudioLevelModule(printLevel, 0.1, 1)
 
     # print all available devices
     print 'Available devices:'
