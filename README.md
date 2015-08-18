@@ -30,6 +30,9 @@ Using the following command, you can check for invalid Unicode characters and un
 Kleomenis Katevas, Patrick G.T. Healey, Matthew Tobias Harris, “Robot Stand-up: Engineering a Comic Performance”, Short paper, [Humanoid Robots and Creativity](http://cogsci.eecs.qmul.ac.uk/humanoids/) workshop @ IEEE Humanoids 2014, Madrid, November 2014.
 [\[pdf\]](http://www.eecs.qmul.ac.uk/~ec09351/papers/HumanoidRobots14.pdf)
 
+Kleomenis Katevas, Patrick G.T. Healey and Matthew Tobias Harris, “Robot Comedy Lab: Experimenting with the Social Dynamics of Live Performance”, Frontiers in Psychology 6:1253. doi: 10.3389/fpsyg.2015.01253.
+[\[pdf\]](http://journal.frontiersin.org/article/10.3389/fpsyg.2015.01253)
+
 ## License
 
 ```
