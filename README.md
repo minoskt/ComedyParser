@@ -57,7 +57,7 @@ This project was featured on the following on-line magazines and websites:
 
 - [CNET: RoboThespian tests its mettle as stand-up comic](http://www.cnet.com/uk/news/robothespian-tests-its-mettle-as-stand-up-comic/)
 
-PhD student Toby Harris won the 1st prise in a national photo competition with a picture of RoboThespian performing stand-up comedy on stage:
+PhD student Toby Harris won the 1st prise in a national photo competition with a picture of RoboThespian performing stand-up comedy live on-stage:
 
 - [Queen Mary University of London: Student’s stand-up robot photo wins national competition](http://www.qmul.ac.uk/media/news/items/se/126324.html)
 
