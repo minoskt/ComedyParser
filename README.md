@@ -15,7 +15,9 @@ Watch a [Video](https://vimeo.com/72090729) of ComedyParser in action using a [R
 
 ### Usage
 
-	python playComedy.py input.json
+```python
+python playComedy.py input.json
+```
 
 ### Comedy Script check
 
@@ -23,7 +25,9 @@ Always use a JSON validator on your input script (e.g. http://jsonlint.com)
 
 Using the following command, you can check for invalid Unicode characters and unsupported commands ("WARNING" messages).
 
-    python Comedy.py input.json
+```python
+python Comedy.py input.json
+```
 
 ## Publications
 
@@ -53,7 +57,7 @@ This project was featured on the following on-line magazines and websites:
 
 - [CNET: RoboThespian tests its mettle as stand-up comic](http://www.cnet.com/uk/news/robothespian-tests-its-mettle-as-stand-up-comic/)
 
-PhD student Toby Harris won the 1st prise in a national photo competition with an image of RoboThespian performing stand-up comedy on stage:
+PhD student Toby Harris won the 1st prise in a national photo competition with a picture of RoboThespian performing stand-up comedy on stage:
 
 - [Queen Mary University of London: Student’s stand-up robot photo wins national competition](http://www.qmul.ac.uk/media/news/items/se/126324.html)
 
