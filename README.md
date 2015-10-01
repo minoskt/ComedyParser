@@ -33,6 +33,34 @@ Kleomenis Katevas, Patrick G.T. Healey, Matthew Tobias Harris, “Robot Stand-up
 Kleomenis Katevas, Patrick G.T. Healey and Matthew Tobias Harris, “Robot Comedy Lab: Experimenting with the Social Dynamics of Live Performance”, Frontiers in Psychology 6:1253. doi: 10.3389/fpsyg.2015.01253.
 [\[pdf\]](http://journal.frontiersin.org/article/10.3389/fpsyg.2015.01253)
 
+## Press Coverage
+
+This project was featured on the following on-line magazines and websites:
+
+- [New Scientist: Robot comedian stands up well against human rivals](https://www.newscientist.com/article/dn24050-robot-comedian-stands-up-well-against-human-rivals)
+
+- [Queen Mary University of London: Comedy robot metal tested at the Barbican](http://www.qmul.ac.uk/media/news/items/se/111813.html)
+
+- [Chortle: Rise of the Robocomics - The machines performing stand-up](http://www.chortle.co.uk/news/2013/08/05/18432/rise_of_the_robocomics)
+
+- [London Evening Standard: Scientists create robot to take on comedians in stand-up challenge](http://www.standard.co.uk/news/london/scientists-create-robot-to-take-on-comedians-in-standup-challenge-8753779.html)
+
+- [The New Yorker: A Robot Walks Into a Bar...](http://www.newyorker.com/online/blogs/elements/2013/12/a-robot-walks-into-a-bar.html)
+
+- [Phys.org: Robot does standup for London audience](http://phys.org/news/2013-08-robot-standup-london-audience-video.html)
+
+- [The Huffington Post: Comedy Robot Video: Researchers Program 'RoboThespian' To Perform Stand-Up Comedy & Gauge Crowd](http://www.huffingtonpost.com/2013/08/19/comedy-robot-video_n_3781490.html)
+
+- [CNET: RoboThespian tests its mettle as stand-up comic](http://www.cnet.com/uk/news/robothespian-tests-its-mettle-as-stand-up-comic/)
+
+PhD student Toby Harris won the 1st prise in a national photo competition with an image of RoboThespian performing stand-up comedy on stage:
+
+- [Queen Mary University of London: Student’s stand-up robot photo wins national competition](http://www.qmul.ac.uk/media/news/items/se/126324.html)
+
+- [The Guardian: National science photography competition](http://www.theguardian.com/science/gallery/2014/mar/31/national-science-photography-competition-in-pictures)
+
+- [Times Higher Education: From robots to charades: 15 remarkable science photographs](http://www.timeshighereducation.co.uk/from-robots-to-charades-15-remarkable-science-photographs/2012464.article)
+
 ## License
 
 ```
