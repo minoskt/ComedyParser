@@ -15,7 +15,7 @@ Watch a [Video](https://vimeo.com/72090729) of ComedyParser in action using a [R
 
 ### Usage
 
-```python
+```
 python playComedy.py input.json
 ```
 
@@ -25,7 +25,7 @@ Always use a JSON validator on your input script (e.g. http://jsonlint.com)
 
 Using the following command, you can check for invalid Unicode characters and unsupported commands ("WARNING" messages).
 
-```python
+```
 python Comedy.py input.json
 ```
 
