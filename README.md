@@ -63,7 +63,7 @@ Ph.D. student Toby Harris won the 1st prize in a national photo competition with
 
 - [The Guardian: National science photography competition](http://www.theguardian.com/science/gallery/2014/mar/31/national-science-photography-competition-in-pictures)
 
-- [Times Higher Education: From robots to charades: 15 remarkable science photographs](http://www.timeshighereducation.co.uk/from-robots-to-charades-15-remarkable-science-photographs/2012464.article)
+- [Times Higher Education: From robots to charades - 15 remarkable science photographs](http://www.timeshighereducation.co.uk/from-robots-to-charades-15-remarkable-science-photographs/2012464.article)
 
 ## License
 
