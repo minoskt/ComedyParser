@@ -49,7 +49,7 @@ This project was featured on the following on-line magazines and websites:
 
 - [London Evening Standard: Scientists create robot to take on comedians in stand-up challenge](http://www.standard.co.uk/news/london/scientists-create-robot-to-take-on-comedians-in-standup-challenge-8753779.html)
 
-- [The New Yorker: A Robot Walks Into a Bar...](http://www.newyorker.com/online/blogs/elements/2013/12/a-robot-walks-into-a-bar.html)
+- [The New Yorker: A Robot Walks Into a Bar...](http://www.newyorker.com/tech/elements/a-robot-walks-into-a-bar)
 
 - [Phys.org: Robot does standup for London audience](http://phys.org/news/2013-08-robot-standup-london-audience-video.html)
 
